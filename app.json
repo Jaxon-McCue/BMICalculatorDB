@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "BMICalculatorDB",
+    "slug": "BMICalculatorDB",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/weights.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/weights.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#34495e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
